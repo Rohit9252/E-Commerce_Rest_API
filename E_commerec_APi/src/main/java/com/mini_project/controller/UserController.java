@@ -1,4 +1,4 @@
-package com.mini_project.cotroller;
+package com.mini_project.controller;
 
 import com.mini_project.model.Address;
 import com.mini_project.model.Cart;
@@ -14,7 +14,6 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.*;
 
-import javax.validation.constraints.NotNull;
 import java.util.List;
 
 @RestController

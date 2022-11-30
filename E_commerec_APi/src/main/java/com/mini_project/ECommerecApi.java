@@ -6,10 +6,10 @@ import org.springframework.context.annotation.Bean;
 import org.modelmapper.ModelMapper;
 
 @SpringBootApplication
-public class MiniProjectApplication {
+public class ECommerecApi {
 
     public static void main(String[] args) {
-        SpringApplication.run(MiniProjectApplication.class, args);
+        SpringApplication.run(ECommerecApi.class, args);
     }
 
     @Bean

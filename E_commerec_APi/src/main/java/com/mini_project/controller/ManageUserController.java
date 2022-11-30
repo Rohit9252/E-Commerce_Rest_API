@@ -1,4 +1,4 @@
-package com.mini_project.cotroller;
+package com.mini_project.controller;
 
 import com.mini_project.dto.*;
 import com.mini_project.model.*;

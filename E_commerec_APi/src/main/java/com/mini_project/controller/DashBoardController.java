@@ -1,4 +1,4 @@
-package com.mini_project.cotroller;
+package com.mini_project.controller;
 
 import com.mini_project.model.Items;
 import com.mini_project.model.UserModel;
@@ -6,7 +6,6 @@ import com.mini_project.model.Orders;
 import com.mini_project.service.DashBoardService;
 import com.mini_project.service.ItemsService;
 import com.mini_project.service.OrderService;
-import org.hibernate.id.IntegralDataTypeHolder;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

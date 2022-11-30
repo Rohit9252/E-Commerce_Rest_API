@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.mini</groupId>
-    <artifactId>Mini_Project</artifactId>
+    <artifactId>E-commerce_Backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Mini_Project</name>
-    <description>Mini_Project</description>
+    <name>E-commerce_Backend</name>
+    <description>E-commerce_Backend</description>
     <properties>
         <java.version>17</java.version>
     </properties>
